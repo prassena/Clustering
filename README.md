@@ -54,4 +54,4 @@ Density-connected A point "p" and "q" are said to be density connected if there 
 If the core point is not assigned to a cluster then make a new cluster with the core point and its density connected point.Assign the border point to its nearest core point .here we dont want to give number of clusters need to be formed .
 
 # Facing error while loading IPYNB "Sorry, something went wrong. Reload?"
-please click the following link https://nbviewer.jupyter.org/github/prassena/Clustering/blob/master/Clustering.ipynb
+please click the following link https://nbviewer.jupyter.org/github/prassena/Clustering-/blob/master/Clustering.ipynb
